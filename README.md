@@ -1,2 +1,2 @@
 # hello-world
-Hola soy juan y me i teresa la i fotmatica 
+Hola soy juan y me interesa la infotmatica 
